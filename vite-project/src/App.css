@@ -42,47 +42,4 @@
 }
 
 
-Navbar{
-  display: flex;
-  flex-direction: row;
-}
 
-
-.divmain{
-
-  display: flex;
-  flex-direction: row;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  background-color: white;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  padding: 1rem;
-  z-index: 1000;
-  justify-content: space-evenly;
-
-ul{
-  list-style: none;
-  display: flex;
-flex-direction: row;
-margin: 20px;
-li{
-
-margin: 40px;
-display: flex;
-
-
-
-
-}
-
-
-}
-
-}
-
-.imgcart{
-height: 40px;
-
-}
